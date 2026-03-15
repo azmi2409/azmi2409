@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Account Migrated!**
+> This GitHub account has been migrated to **[https://github.com/azmimuwahid](https://github.com/azmimuwahid)**. Please follow me there for my latest updates!
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Azmi</h1>
 <h3 align="center">Just your average tech guys from Jakarta</h3>
 
