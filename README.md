@@ -73,7 +73,7 @@ PostgreSQL · Redis · AWS · Google Cloud · Terraform · Docker
 
 ### Let's build something intelligent. 🚀
 
-🌏 Based in Southeast Asia · Working globally
+📍 Jakarta, Indonesia 🇮🇩 · Working globally
 
 [Start a conversation](mailto:azmimuwahid@gmail.com) · [azmi.web.id](https://azmi.web.id)
 
