@@ -18,16 +18,18 @@ I design and ship agentic workflows, RAG systems, and real-time interfaces where
 
 ---
 
-## 🚀 Proof over promises
+## 🚀 Proof of work
 
-| System | What I shipped | Stack |
-| --- | --- | --- |
-| 🎓 [FutureLab AI Workflows](https://azmi.web.id/projects/futurelab-ai-workflows) | Production transcription, summarization, and review workflows for B2B mentoring operations | Ruby on Rails · PostgreSQL · AWS · OpenAI |
-| 🏗️ [Kilat.store](https://azmi.web.id/projects/kilat-store) | Multi-tenant AI website generation, visual editing, and low-cost static delivery | Next.js · Puck · Astro · Rails · Terraform |
-| ⚡ [Codexia Live](https://azmi.web.id/projects/codexia-live) | A low-latency coaching loop with progressive hints and inspectable agent behavior | SvelteKit · TypeScript · WebSockets · Cloud Run |
-| 🧩 [The Beddo AI-CRM](https://azmi.web.id/projects/the-beddo-crm) | An agentic CRM inbox with lead extraction and visible tool-call telemetry | Next.js · tRPC · Better Auth · Drizzle ORM |
+Here are some things I've built and shared publicly:
 
-[Explore all case studies →](https://azmi.web.id/projects)
+- 📬 **[Rails Mailer Sandbox](https://github.com/azmi2409/rails-mailer-sandbox)** — A Mailtrap-inspired local email inbox for Rails, packaged as a Ruby gem.
+- 🎨 **[Jamboard](https://github.com/azmi2409/jamboard)** — A collaborative AI-powered whiteboard using React, TypeScript, Canvas, and Yjs.
+- 🌐 **[Azmi Portfolio](https://github.com/azmi2409/azmi-portofolio-sveltekit)** — The SvelteKit codebase behind [azmi.web.id](https://azmi.web.id), with Notion-backed case studies and experiments.
+- ⚙️ **[Prefect Workflow Automation](https://github.com/azmi2409/prefect-workflow-automation)** — A containerized ETL workflow moving data from SQL Server to PostgreSQL with Prefect.
+- 🎮 **[FL Brain Battle](https://github.com/azmi2409/fl-gamenight)** — A host-controlled team learning game designed for Zoom and Google Meet.
+- 💳 **[GoPay Merchant QRIS Gateway](https://github.com/azmi2409/gopay-merchant-qris-gateway)** — An experimental TypeScript gateway for dynamic QRIS payments, webhooks, and merchant administration.
+
+[Browse all public repositories →](https://github.com/azmi2409?tab=repositories)
 
 ## 🧠 How I think about AI products
 
