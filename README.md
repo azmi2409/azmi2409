@@ -1,18 +1,68 @@
-> [!IMPORTANT]
-> **Account Migrated!**
-> This GitHub account has been migrated to **[https://github.com/azmimuwahid](https://github.com/azmimuwahid)**. Please follow me there for my latest updates!
+<div align="center">
 
-<br>
+# Azmi Muwahid
 
-<h1 align="center">Hi 👋, I'm Azmi</h1>
-<h3 align="center">Just your average tech guys from Jakarta</h3>
+### AI systems for the messy middle.
 
-- 📫 How to reach me **me@azmi.web.id**
+I design and ship agentic workflows, RAG systems, and real-time interfaces where model behavior, product UX, and backend reliability have to agree.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/azmimuwahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azmimuwahid" height="30" width="40" /></a>
-</p>
+[![Available for select product work](https://img.shields.io/badge/Available_for_select_product_work-2026-2563EB?style=flat-square)](mailto:azmimuwahid@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[Website](https://azmi.web.id) · [Selected work](https://azmi.web.id/projects) · [About](https://azmi.web.id/about) · [LinkedIn](https://www.linkedin.com/in/azmimuwahid/) · [Email](mailto:azmimuwahid@gmail.com)
+
+</div>
+
+---
+
+## Proof over promises
+
+| System | What I shipped | Stack |
+| --- | --- | --- |
+| [FutureLab AI Workflows](https://azmi.web.id/projects/futurelab-ai-workflows) | Production transcription, summarization, and review workflows for B2B mentoring operations | Ruby on Rails · PostgreSQL · AWS · OpenAI |
+| [Kilat.store](https://azmi.web.id/projects/kilat-store) | Multi-tenant AI website generation, visual editing, and low-cost static delivery | Next.js · Puck · Astro · Rails · Terraform |
+| [Codexia Live](https://azmi.web.id/projects/codexia-live) | A low-latency coaching loop with progressive hints and inspectable agent behavior | SvelteKit · TypeScript · WebSockets · Cloud Run |
+| [The Beddo AI-CRM](https://azmi.web.id/projects/the-beddo-crm) | An agentic CRM inbox with lead extraction and visible tool-call telemetry | Next.js · tRPC · Better Auth · Drizzle ORM |
+
+[Explore all case studies →](https://azmi.web.id/projects)
+
+## How I think about AI products
+
+```text
+Signal → Context → Policy → Tool call → Interface feedback → Measurable outcome
+```
+
+- **Context** — RAG, memory, retrieval, and traceable sources
+- **Policy** — route, reason, ask, answer, call a tool, or wait
+- **Observation** — traces, evaluations, review states, latency, and cost controls
+
+The useful part is not an impressive internal chain of thought. It is a reliable result that people can understand, inspect, and act on.
+
+## Working stack
+
+**AI systems**  
+Agentic workflows · RAG · Tool calling · Vector databases · LLM orchestration
+
+**Product engineering**  
+TypeScript · React · Next.js · SvelteKit · Ruby on Rails · Node.js
+
+**Data and infrastructure**  
+PostgreSQL · Redis · AWS · Google Cloud · Terraform · Docker
+
+## What I care about
+
+- AI behavior that remains inspectable in production
+- Full-stack systems where UX and backend reliability reinforce each other
+- Queues, retries, latency budgets, evaluation loops, and human review
+- Clear technical tradeoffs tied to real product outcomes
+
+---
+
+<div align="center">
+
+### Let's build something intelligent.
+
+Based in Southeast Asia · Working globally
+
+[Start a conversation](mailto:azmimuwahid@gmail.com) · [azmi.web.id](https://azmi.web.id)
+
+</div>
