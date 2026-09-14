@@ -20,16 +20,22 @@ I design and ship agentic workflows, RAG systems, and real-time interfaces where
 
 ## 🚀 Proof of work
 
-Here are some things I've built and shared publicly:
+A mix of open-source projects and private product systems:
 
-- 📬 **[Rails Mailer Sandbox](https://github.com/azmi2409/rails-mailer-sandbox)** — A Mailtrap-inspired local email inbox for Rails, packaged as a Ruby gem.
-- 🎨 **[Jamboard](https://github.com/azmi2409/jamboard)** — A collaborative AI-powered whiteboard using React, TypeScript, Canvas, and Yjs.
-- 🌐 **[Azmi Portfolio](https://github.com/azmi2409/azmi-portofolio-sveltekit)** — The SvelteKit codebase behind [azmi.web.id](https://azmi.web.id), with Notion-backed case studies and experiments.
-- ⚙️ **[Prefect Workflow Automation](https://github.com/azmi2409/prefect-workflow-automation)** — A containerized ETL workflow moving data from SQL Server to PostgreSQL with Prefect.
-- 🎮 **[FL Brain Battle](https://github.com/azmi2409/fl-gamenight)** — A host-controlled team learning game designed for Zoom and Google Meet.
-- 💳 **[GoPay Merchant QRIS Gateway](https://github.com/azmi2409/gopay-merchant-qris-gateway)** — An experimental TypeScript gateway for dynamic QRIS payments, webhooks, and merchant administration.
+- 📬 **[Rails Mailer Sandbox](https://github.com/azmi2409/rails-mailer-sandbox)** · Public  
+  A Mailtrap-inspired local email inbox for Rails, packaged as a Ruby gem with persistent MIME storage, safe previews, search, and attachments.
 
-[Browse all public repositories →](https://github.com/azmi2409?tab=repositories)
+- 🎨 **[Jamboard](https://github.com/azmi2409/jamboard)** · Public  
+  A collaborative AI-powered whiteboard built with React, TypeScript, Canvas, and Yjs for real-time multi-user editing.
+
+- 🎙️ **Codexia Live** · Private repository  
+  A real-time technical interview coach combining voice, live code analysis, stress signals, progressive hints, and inspectable AI interventions.
+
+- 🛏️ **The Beddo AI-CRM** · Private repository  
+  An agentic CRM inbox that extracts lead information while exposing tool calls and activity telemetry for human oversight.
+
+- 🎬 **AIClipper.video** · Private repository  
+  A serverless pipeline that turns long-form videos into vertical clips using transcription, AI-assisted segment selection, and automated media processing.
 
 ## 🧠 How I think about AI products
 
